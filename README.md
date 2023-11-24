@@ -1,5 +1,7 @@
 # Kaggle Challenge - Cardiac pathology prediction
 
+![image](https://github.com/liadsantos/challenge-cardiac-pathology-prediction/assets/115878785/d8073442-6489-4266-9ff1-02e955895e35)
+
 The challenge focuses on four cardiac pathologies that might go unnoticed at first, but can ultimately become life-threatening. Complications include heart failure and sudden cardiac arrest.
 The goal of this challenge is to classify MRI images of the heart among five different diagnostic classes:
 
